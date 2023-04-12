@@ -1,1 +1,3 @@
 #Biodiversity at your fingertips
+
+ This workshop will introduce participants to the Vermont Atlas of Life's community science data stored at the Global Biodiversity Information Facility (GBIF) submitted through various platforms such as eBird.org, iNaturalist.org, OdonataCentral.org, and eButterfly.org. Participants will get hands-on experience analyzing community science observations, from creating species lists to mapping species distributions. The workshop will be taught using R, a free, open-source statistical computing program. Participants are encouraged to be familiar with R to get the most out of the workshop. A laptop is required for participation.
